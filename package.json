@@ -1,9 +1,10 @@
 {
-  "name": "atm-project",
+  "name": "3333-atm-project",
   "type": "module",
-  "version": "1.0.0",
+  "version": "2.0.9",
   "description": "",
   "main": "index.js",
+  "bin":"index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
